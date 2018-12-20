@@ -24,6 +24,5 @@ object Server {
     println(resp.getResponseBody())
     instance.stop()
     println("Server stopped")
-    System.exit(0)
   }
 }
