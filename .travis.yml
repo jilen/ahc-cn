@@ -5,4 +5,3 @@ jdk:
 - oraclejdk8
 scripts:
   - sbt "runMain Server"
-  - killall java
