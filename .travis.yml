@@ -3,5 +3,5 @@ scala:
 - 2.11.12
 jdk:
 - oraclejdk8
-scripts:
+script:
   - sbt "runMain Server"
